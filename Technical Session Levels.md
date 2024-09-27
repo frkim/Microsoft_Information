@@ -1,4 +1,4 @@
-# Technical Session Levels
+# Technical Session Levels (L100, L200, L300 and L400)
 
 In the context of technical sessions or training, these levels indicate the depth of content:
 
